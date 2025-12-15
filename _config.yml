@@ -24,6 +24,11 @@ twitter_username: # (blank if you don't use it)
 minimal_mistakes_skin: default
 search: true
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
