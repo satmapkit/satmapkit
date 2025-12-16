@@ -17,7 +17,7 @@ excerpt: >
 feature_row:
   - title: "AlongTrackSimulator"
     excerpt: "Along-track altimetry sampling simulation and analysis."
-    url: "https://satmapkit.github.io/AlongTrackSimulator/"
+    url: "https://github.com/SatMapKit/AlongTrackSimulator"
     btn_class: "btn--primary"
     btn_label: "View repo"
 
@@ -26,18 +26,11 @@ feature_row:
     url: "https://github.com/Nazanne/OceanDB"
     btn_class: "btn--primary"
     btn_label: "View repo"
-    
-- title: "MapInterp"
-    excerpt: "Algorithm agnostic interpolation framework for satellite altimetry"
-    url: "https://github.com/satmapkit/MapInterp"
-    btn_class: "btn--primary"
-    btn_label: "View repo"
 
   - title: "More tools"
     excerpt: "Browse the full tool catalog."
-    url: "https://github.com/satmapkit"
+    url: "/tools/"
     btn_class: "btn--primary"
-    btn_label: "Browse"y"
     btn_label: "Browse"
 ---
 
