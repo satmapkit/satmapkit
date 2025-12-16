@@ -22,7 +22,10 @@ description: "Satellite altimetry tools for mapping, analysis, and parameter est
 github_username: SatMapKit
 twitter_username: # (blank if you don't use it)
 minimal_mistakes_skin: default
-search: true
+search: false
+
+atom_feed:
+  hide: true
 
 collections:
   pages:
