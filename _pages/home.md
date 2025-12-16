@@ -21,9 +21,9 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "View repo"
 
-  - title: "AlongTrackSimulator"
-    excerpt: "Along-track altimetry sampling simulation and analysis."
-    url: "https://github.com/SatMapKit/AlongTrackSimulator"
+  - title: "MapInterp"
+    excerpt: "Algorithm agnostic interpolation framework for satellite altimetry"
+    url: "https://github.com/satmapkit/MapInterp"
     btn_class: "btn--primary"
     btn_label: "View repo"
 
